@@ -1,2 +1,2 @@
-# WebXR-painti-byNiko
+# WebXR-Painting-byNiko
 Integracion de la libreriua WebXR en Unity
